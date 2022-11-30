@@ -1,0 +1,19 @@
+{
+  "name": "tresraya-frontend",
+  "version": "1.0.0",
+  "description": "Frontend de la aplicación tres en raya",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sierra-034/tresenraya-frontend.git"
+  },
+  "author": "Samuel Gómez Balderas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sierra-034/tresenraya-frontend/issues"
+  },
+  "homepage": "https://github.com/Sierra-034/tresenraya-frontend#readme"
+}
